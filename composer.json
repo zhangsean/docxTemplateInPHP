@@ -1,5 +1,5 @@
 {
-    "name": "Raaghu1987/docxTemplateInPHP",
+    "name": "icircle/docx-template-in-php",
     "description": "Create Templates in MS Word docx format and use them Creating Business documents using PHP",
     "type": "library",
     "keywords": ["docx","template","merge","document","doc","table","grid","merge list","rtf"],
